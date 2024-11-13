@@ -1,0 +1,7 @@
+streamlit
+scipy
+numpy
+matplotlib
+pandas
+jax
+jaxlib
