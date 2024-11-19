@@ -6,5 +6,5 @@ pandas
 jax
 jaxlib
 jaxtyping
-linex
+lineax
 equinox
